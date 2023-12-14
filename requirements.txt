@@ -52,3 +52,7 @@ seaborn
 pip install -U seaborn
 conda update --all
 conda update seaborn
+import seaborn
+print(seaborn.__version__)
+pip install --upgrade seaborn
+!pip install seaborn --upgrade
