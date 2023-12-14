@@ -49,5 +49,3 @@ seaborn==0.10.1
 six==1.16.0
     # via python-dateutil
 seaborn
-import seaborn
-pip install --upgrade seaborn
